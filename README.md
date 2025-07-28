@@ -1,18 +1,16 @@
 # 🛍️ E-commerce Sales Analytics Dashboard
 
-This project was developed as part of the **Future Interns Data Science & Analytics Internship**. It focuses on analyzing e-commerce sales data and creating an interactive dashboard using **Power BI** and **Excel** to uncover actionable business insights.
+This project was developed as part of the **Future Interns Data Science & Analytics Internship**. It focused on analyzing e-commerce sales data and creating an interactive dashboard using **Power BI** and **Excel** to uncover actionable business insights.
 
 
 
 ## 🔍 About the Task
 
-This real-world task simulates how businesses track and understand sales performance using data. The goal is to help decision-makers answer key questions:
+This real-world task simulates how businesses track and understand sales performance using data. The goal was to help decision-makers answer key questions:
 
 - 🛒 What are the best-selling products?
 - 📅 When do sales peak during the year?
 - 🌍 Which categories or regions bring in the most revenue?
-
-No prior coding is required—just a curiosity for data analytics and a willingness to learn!
 
 
 
